@@ -1,0 +1,31 @@
+/* Complete the CSS styling according to the provided design */
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://img.freepik.com/premium-vector/poker-table-background-green-color_47243-1068.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+    
+}
+
+#message-el {
+    font-style: italic; 
+}
+
+button{
+color:#016f32;
+width:150px;
+background-color:goldenrod;
+padding-top: 5px;
+padding-bottom: 5px; /*making some space for our text */
+font-weight: bold; /*Making the font bold */
+border: none; 
+border-radius: 2px;  /*This is for making the edges sharper */
+margin-bottom: 4px; 
+}
